@@ -1,6 +1,6 @@
 # Introduction
 
-iTick provides a comprehensive API suite, including FIX, REST and Websocket APIs, to meet the needs of institutional clients. Our iTick API solution is highly scalable, allowing clients to access real-time market data and insights. Clients can easily integrate our iTick API with their existing systems and applications to simplify workflows. [English Documentation](https://itick.readme.io), [Traditional Chinese Documentation](https://itick-hk.readme.io)
+iTick provides a comprehensive API suite, including FIX, REST and Websocket APIs, to meet the needs of institutional clients. Our iTick API solution is highly scalable, allowing clients to access real-time market data and insights. Clients can easily integrate our iTick API with their existing systems and applications to simplify workflows. [English Documentation](https://docs.itick.org/), [Traditional Chinese Documentation](https://docs.itick.org/)
 
 Real-time and historical data of mainstream market stocks (US, Hong Kong, China, Singapore, Japan, etc.), global foreign exchange, indexes and cryptocurrencies. Standard easy-to-use interface style, concise documentation and rich examples help developers quickly access.Provides long-term free stock API, free foreign exchange API, free index API.
 
